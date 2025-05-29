@@ -25,8 +25,11 @@ The heart of this task lies in the visualization of the decision tree. The plot_
 
 The model’s performance is evaluated using metrics such as accuracy, a classification report (precision, recall, and F1-score for each class), and a confusion matrix. This helps assess how well the model distinguishes between the different iris species.
 
-# OUTPUT : 
-
 Finally, the feature importance is visualized using a horizontal bar chart. This shows which features contribute most to the model's decision-making process, offering valuable insights into the relationships within the data.
 
 This task serves as a comprehensive introduction to decision trees in machine learning. It demonstrates the end-to-end process of model creation, visualization, and evaluation, all within a Jupyter Notebook framework. The notebook provides an interactive and easily understandable approach to exploring decision trees and their practical applications in classification problems.
+
+# OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/6bc0ad33-e10c-468a-b3df-9bdf71a59c6c)
+![Image](https://github.com/user-attachments/assets/0ba712a4-2d37-4f98-b081-e3b3836314d7)
